@@ -1,4 +1,4 @@
 import React from "react";
 export function App() {
-  return <h1>Hello Lucas</h1>;
+  return <h1>Hello ReactJS</h1>;
 }
